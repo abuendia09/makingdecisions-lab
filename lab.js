@@ -11,9 +11,11 @@
   var lovesCode = true;
   if (lovesCode === true) {
     console.log("I love to code!");
-  if (lovesCode === false)
+  }
+  if (lovesCode === false){
     console.log("coding has its challenges.");
   }
+  
   
 
 
@@ -31,9 +33,9 @@ var brittanisBirthYear = 1986;
 
 //CODE HERE
 
-if (amysAge < brittanisAge);
+if (amysAge < brittanisAge){
 console.log("Brittani is older");
-
+}
 /* if they are the same age, will it be null? */
 
 
@@ -45,9 +47,16 @@ console.log("Brittani is older");
 
 //CODE HERE
 
+if (amysBirthYear==brittanisBirthYear){
+  console.log("Amy and Brittani were born the same year");
+} else {
+  console.log("Amy and Brittani were not born in the same year");
+}
+
+
 ////////// PROBLEM 4 //////////
 
-let temperature = 55;
+let temperature = 60;
 let rain = true;
 
 /*
@@ -56,6 +65,13 @@ let rain = true;
 */
 
 //CODE HERE
+
+if (temperature <= 80, rain==true) {
+    console.log("one should wear a t-shirt and take an umbrella");
+} if (temperature > 60-80, rain = true ){
+  console.log("one should wear a rain-jacket");
+}
+
 
 ////////// PROBLEM 5 //////////
 
