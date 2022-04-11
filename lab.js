@@ -8,6 +8,15 @@
 
 //CODE HERE
 
+  var lovesCode = true;
+  if (lovesCode === true) {
+    console.log("I love to code!");
+  if (lovesCode === false)
+    console.log("coding has its challenges.");
+  }
+  
+
+
 // For problems 2-3 use the following lines of code:
 var amysAge = 29;
 var brittanisAge = 34;
@@ -21,6 +30,12 @@ var brittanisBirthYear = 1986;
 */
 
 //CODE HERE
+
+if (amysAge < brittanisAge);
+console.log("Brittani is older");
+
+/* if they are the same age, will it be null? */
+
 
 ////////// PROBLEM 3 //////////
 
