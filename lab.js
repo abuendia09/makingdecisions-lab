@@ -175,13 +175,6 @@ if (changeMyMind === false) {
 changeMyMind = !changeMyMind
   console.log(changeMyMind)
 
-
-// if (changeMyMind !== false) {
-//   console.log('It is true');
-// } else {
-//   console.log('It is false');
-// }
-
 ////////// ADVANCED PROBLEMS //////////
 
 ////////// PROBLEM 11 //////////
